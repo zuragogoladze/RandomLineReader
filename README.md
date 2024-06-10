@@ -25,4 +25,4 @@
     chmod +x RandomLineReader
 3. **Run the application** with the input file and index as arguments:
     ```sh
-    RandomLineReader.exe ../input_file.txt 2
+    ./RandomLineReader ../input_file.txt 2
